@@ -1,0 +1,21 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天自动更新
+  workflow_dispatch: # 手动触发
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          config: metrics.config.yml
