@@ -1,16 +1,74 @@
-## Hi there 👋
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400" />
-<!--
-**zmh-123/zmh-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there 👋 I'm Mystic</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>山东大学 · 网络空间安全学院</em><br/>
+  <em>“不是技术控也并非大佬，更像是小镇做题家，但是爱整点花里胡哨的”</em><br/>
+  <em>三分钟热度实锤</em><br/>
+  <em>当前在某大厂实习中 · 软件开发岗</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+### 🧠 关于我 About Me
+
+- 🎓 本科在读 | 山东大学网络空间安全学院  
+- 💻 主攻 C++，偶尔写 Python ，骗自己是全栈
+- 🧩 项目经历从大三下开始“火力全开”，准备秋招中...
+- 🔐 近期计划提交网络空间安全创新创业实践相关项目（暑期课程痛并不快乐着）
+- 👀 不要扒煮波马甲，煮波会非常尴尬🙈 🙈 🙈
+
+---
+
+### 🚀 技能关键词
+
+`C++` `Python` `Reverse Engineering` `Cryptography` `Linux` `Git`
+
+---
+
+### 🔧 我正在做的事
+
+- 🏗️ 秋招算法 & 八股 & 项目三连冲刺中
+- 🧪 暑假课程 + 课程实验打杂中（比如网络空间安全创新创业实践课程）
+- 🧳 软件开发暑期实习中，轻微焦虑
+
+---
+
+### 📂 代表项目 Repos
+
+| 项目                                                         | 简介                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [zmh-123/Secure_Platform](https://github.com/zmh-123/Secure_Platform) | 金融类安全传输平台，解决数据传输的安全性完整性保密性网络传输等问题 |
+| https://blog.csdn.net/2301_76230636/article/details/148568621 | 一些简单的AI安全攻击                                         |
+
+---
+
+### 📊 GitHub 速览
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zmh-123&show_icons=true&theme=tokyonight&hide=prs" alt="Mystic's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zmh-123&theme=tokyonight" alt="Mystic's GitHub streak" />
+</p>
+
+
+### 📊 我的 GitHub 统计图
+
+<p align="center">
+  <img src="github-metrics.svg" alt="metrics" />
+</p>
+
+
+---
+
+### 📫 社交
+
+- 🐙 GitHub: [@zmh-123](https://github.com/zmh-123)
+- 📝 CSDN: [@2301_76230636](https://blog.csdn.net/2301_76230636)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
